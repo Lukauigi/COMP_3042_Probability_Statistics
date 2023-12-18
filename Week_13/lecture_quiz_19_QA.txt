@@ -1,0 +1,13 @@
+A medical student wants to estimate the mean height of women. 
+She measures 10 women's heights and finds a mean of 165.1 cm and a 
+standard deviation of 8.9 cm. The heights appear to come from a 
+population that is normally distributed. What is the 90% confidence
+interval for the mean women's height?
+
+A: (159.9cm, 170.3cm)
+B: (160.5cm, 169.7cm)
+C: (160.0cm, 170.2cm)
+D: (158.7cm, 171.5cm)
+
+Answer: A
+

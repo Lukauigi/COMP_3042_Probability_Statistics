@@ -1,0 +1,25 @@
+A network administrator suspects that the servers are running slowly 
+and that the mean amount of time to transfer a 10MB file is greater 
+than the benchmark mean transfer time of 5 seconds. He decides to 
+conduct a hypothesis test with significance α, and if he finds 
+sufficient evidence that his suspicion is correct, then he will 
+allocate more server space. However, he really doesn't want to 
+allocate more server space if he doesn't have to. That is: if the 
+mean transfer time isn't actually greater than 5 seconds, he wants 
+it to be very unlikely that his hypothesis test leads him to 
+conclude that it was.
+
+What type of error is the network administrator trying to avoid, 
+and how can he reduce the chance of making it?
+
+Question 1 options:
+
+A: Type I; reduce α
+
+B: Type II; reduce α
+
+C: Type II; increase α
+
+D: Type I: increase α
+
+Answer: A

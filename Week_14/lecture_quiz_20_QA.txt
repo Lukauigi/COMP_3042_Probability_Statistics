@@ -1,0 +1,17 @@
+A student suspects that the mean amount of time BCIT students spend 
+on homework is more than 3h per day. He decides to do a formal 
+hypothesis test by surveying 50 BCIT students and asking them how 
+much time they spent on homework today to see if his suspicion is 
+correct. What are the null and alternative hypotheses for this test?
+
+Question 1 options:
+
+A: H0: μ≤3; H1: μ>3
+
+B: H0: μ>3; H1: μ≤3
+
+C: H0: μ<3; H1: μ≥3
+
+D: H0: μ≥3; H1: μ<3
+
+Answer: A

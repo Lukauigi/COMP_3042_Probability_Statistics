@@ -1,0 +1,18 @@
+green = 66FF00
+yellow = FFFF00
+red = FF3300
+blue = 0000FF
+light blue = FFCCFF
+
+order:
+red
+yellow
+green
+light blue
+blue
+
+pink = FFC0CB
+turqoise = 99CCCC
+
+min = 16.7
+max = 73

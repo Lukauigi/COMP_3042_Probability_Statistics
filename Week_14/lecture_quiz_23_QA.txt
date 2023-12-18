@@ -1,0 +1,15 @@
+What is the 90% prediction interval for the time to failure of a 
+40Ω circuit, based on the resistance and time to failure data from 
+page 5?
+
+Question 1 options:
+
+A: (26.14, 44.54) min
+
+B: (25.39, 45.29) min
+
+C: (25.48, 45.20) min
+
+D: (25.06, 45.62) min
+
+Answer: B
